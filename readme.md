@@ -1,5 +1,5 @@
 
-# flask 练习项目
+# web 开发--使用python和flask
 【2023版-零基础玩转Python Flask框架-学完可就业】 https://www.bilibili.com/video/BV17r4y1y7jJ/?share_source=copy_web&vd_source=0c41331817bb163eefa80ca0f16f89c2
 
 config.py
