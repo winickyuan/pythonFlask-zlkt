@@ -29,7 +29,7 @@ def befor_request():
     else:
         setattr(g, "user", None)
 
-
+#测试
 @app.context_processor
 def context_processor():
     return {"user": g.user}
